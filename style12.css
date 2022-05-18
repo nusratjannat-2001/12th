@@ -1,0 +1,10 @@
+.box {
+  height: 500px;
+  width: 70%;
+  border-radius: 10px;
+  border: 2px solid red;
+  margin: 50px auto;
+  background-image: url("img/download.jpg"), url("img/download1.jpg");
+  background-repeat: no-repeat, no-repeat;
+  background-position: bottom left,top right;
+}
